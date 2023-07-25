@@ -1,0 +1,3 @@
+[submodule "verification/riscv-dv"]
+	path = verification/riscv-dv
+	url = git@github.com:chipsalliance/riscv-dv.git
